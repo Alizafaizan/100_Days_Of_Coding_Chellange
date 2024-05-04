@@ -1,0 +1,16 @@
+{
+  "name": "58.-write-a-simple-programe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.8",
+    "main.js": "^0.0.1"
+  }
+}
